@@ -1,0 +1,16 @@
+D:\.net\PracticeSwapTwoNumbers\PracticeSwapTwoNumbers\bin\Debug\net5.0\PracticeSwapTwoNumbers.exe
+D:\.net\PracticeSwapTwoNumbers\PracticeSwapTwoNumbers\bin\Debug\net5.0\PracticeSwapTwoNumbers.deps.json
+D:\.net\PracticeSwapTwoNumbers\PracticeSwapTwoNumbers\bin\Debug\net5.0\PracticeSwapTwoNumbers.runtimeconfig.json
+D:\.net\PracticeSwapTwoNumbers\PracticeSwapTwoNumbers\bin\Debug\net5.0\PracticeSwapTwoNumbers.runtimeconfig.dev.json
+D:\.net\PracticeSwapTwoNumbers\PracticeSwapTwoNumbers\bin\Debug\net5.0\PracticeSwapTwoNumbers.dll
+D:\.net\PracticeSwapTwoNumbers\PracticeSwapTwoNumbers\bin\Debug\net5.0\PracticeSwapTwoNumbers.pdb
+D:\.net\PracticeSwapTwoNumbers\PracticeSwapTwoNumbers\obj\Debug\net5.0\PracticeSwapTwoNumbers.csproj.AssemblyReference.cache
+D:\.net\PracticeSwapTwoNumbers\PracticeSwapTwoNumbers\obj\Debug\net5.0\PracticeSwapTwoNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\PracticeSwapTwoNumbers\PracticeSwapTwoNumbers\obj\Debug\net5.0\PracticeSwapTwoNumbers.AssemblyInfoInputs.cache
+D:\.net\PracticeSwapTwoNumbers\PracticeSwapTwoNumbers\obj\Debug\net5.0\PracticeSwapTwoNumbers.AssemblyInfo.cs
+D:\.net\PracticeSwapTwoNumbers\PracticeSwapTwoNumbers\obj\Debug\net5.0\PracticeSwapTwoNumbers.csproj.CoreCompileInputs.cache
+D:\.net\PracticeSwapTwoNumbers\PracticeSwapTwoNumbers\obj\Debug\net5.0\PracticeSwapTwoNumbers.dll
+D:\.net\PracticeSwapTwoNumbers\PracticeSwapTwoNumbers\obj\Debug\net5.0\refint\PracticeSwapTwoNumbers.dll
+D:\.net\PracticeSwapTwoNumbers\PracticeSwapTwoNumbers\obj\Debug\net5.0\PracticeSwapTwoNumbers.pdb
+D:\.net\PracticeSwapTwoNumbers\PracticeSwapTwoNumbers\obj\Debug\net5.0\PracticeSwapTwoNumbers.genruntimeconfig.cache
+D:\.net\PracticeSwapTwoNumbers\PracticeSwapTwoNumbers\obj\Debug\net5.0\ref\PracticeSwapTwoNumbers.dll
