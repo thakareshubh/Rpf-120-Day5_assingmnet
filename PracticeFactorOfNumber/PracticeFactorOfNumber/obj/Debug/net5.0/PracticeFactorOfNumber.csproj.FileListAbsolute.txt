@@ -1,0 +1,16 @@
+D:\.net\PracticeFactorOfNumber\PracticeFactorOfNumber\bin\Debug\net5.0\PracticeFactorOfNumber.exe
+D:\.net\PracticeFactorOfNumber\PracticeFactorOfNumber\bin\Debug\net5.0\PracticeFactorOfNumber.deps.json
+D:\.net\PracticeFactorOfNumber\PracticeFactorOfNumber\bin\Debug\net5.0\PracticeFactorOfNumber.runtimeconfig.json
+D:\.net\PracticeFactorOfNumber\PracticeFactorOfNumber\bin\Debug\net5.0\PracticeFactorOfNumber.runtimeconfig.dev.json
+D:\.net\PracticeFactorOfNumber\PracticeFactorOfNumber\bin\Debug\net5.0\PracticeFactorOfNumber.dll
+D:\.net\PracticeFactorOfNumber\PracticeFactorOfNumber\bin\Debug\net5.0\PracticeFactorOfNumber.pdb
+D:\.net\PracticeFactorOfNumber\PracticeFactorOfNumber\obj\Debug\net5.0\PracticeFactorOfNumber.csproj.AssemblyReference.cache
+D:\.net\PracticeFactorOfNumber\PracticeFactorOfNumber\obj\Debug\net5.0\PracticeFactorOfNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\PracticeFactorOfNumber\PracticeFactorOfNumber\obj\Debug\net5.0\PracticeFactorOfNumber.AssemblyInfoInputs.cache
+D:\.net\PracticeFactorOfNumber\PracticeFactorOfNumber\obj\Debug\net5.0\PracticeFactorOfNumber.AssemblyInfo.cs
+D:\.net\PracticeFactorOfNumber\PracticeFactorOfNumber\obj\Debug\net5.0\PracticeFactorOfNumber.csproj.CoreCompileInputs.cache
+D:\.net\PracticeFactorOfNumber\PracticeFactorOfNumber\obj\Debug\net5.0\PracticeFactorOfNumber.dll
+D:\.net\PracticeFactorOfNumber\PracticeFactorOfNumber\obj\Debug\net5.0\refint\PracticeFactorOfNumber.dll
+D:\.net\PracticeFactorOfNumber\PracticeFactorOfNumber\obj\Debug\net5.0\PracticeFactorOfNumber.pdb
+D:\.net\PracticeFactorOfNumber\PracticeFactorOfNumber\obj\Debug\net5.0\PracticeFactorOfNumber.genruntimeconfig.cache
+D:\.net\PracticeFactorOfNumber\PracticeFactorOfNumber\obj\Debug\net5.0\ref\PracticeFactorOfNumber.dll
