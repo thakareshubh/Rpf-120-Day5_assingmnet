@@ -1,0 +1,16 @@
+D:\.net\PracticeToFindLargest\PracticeToFindLargest\bin\Debug\net5.0\PracticeToFindLargest.exe
+D:\.net\PracticeToFindLargest\PracticeToFindLargest\bin\Debug\net5.0\PracticeToFindLargest.deps.json
+D:\.net\PracticeToFindLargest\PracticeToFindLargest\bin\Debug\net5.0\PracticeToFindLargest.runtimeconfig.json
+D:\.net\PracticeToFindLargest\PracticeToFindLargest\bin\Debug\net5.0\PracticeToFindLargest.runtimeconfig.dev.json
+D:\.net\PracticeToFindLargest\PracticeToFindLargest\bin\Debug\net5.0\PracticeToFindLargest.dll
+D:\.net\PracticeToFindLargest\PracticeToFindLargest\bin\Debug\net5.0\PracticeToFindLargest.pdb
+D:\.net\PracticeToFindLargest\PracticeToFindLargest\obj\Debug\net5.0\PracticeToFindLargest.csproj.AssemblyReference.cache
+D:\.net\PracticeToFindLargest\PracticeToFindLargest\obj\Debug\net5.0\PracticeToFindLargest.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\PracticeToFindLargest\PracticeToFindLargest\obj\Debug\net5.0\PracticeToFindLargest.AssemblyInfoInputs.cache
+D:\.net\PracticeToFindLargest\PracticeToFindLargest\obj\Debug\net5.0\PracticeToFindLargest.AssemblyInfo.cs
+D:\.net\PracticeToFindLargest\PracticeToFindLargest\obj\Debug\net5.0\PracticeToFindLargest.csproj.CoreCompileInputs.cache
+D:\.net\PracticeToFindLargest\PracticeToFindLargest\obj\Debug\net5.0\PracticeToFindLargest.dll
+D:\.net\PracticeToFindLargest\PracticeToFindLargest\obj\Debug\net5.0\refint\PracticeToFindLargest.dll
+D:\.net\PracticeToFindLargest\PracticeToFindLargest\obj\Debug\net5.0\PracticeToFindLargest.pdb
+D:\.net\PracticeToFindLargest\PracticeToFindLargest\obj\Debug\net5.0\PracticeToFindLargest.genruntimeconfig.cache
+D:\.net\PracticeToFindLargest\PracticeToFindLargest\obj\Debug\net5.0\ref\PracticeToFindLargest.dll
