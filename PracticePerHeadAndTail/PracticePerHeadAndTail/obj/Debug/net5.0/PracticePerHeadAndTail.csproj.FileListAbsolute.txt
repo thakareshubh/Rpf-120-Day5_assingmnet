@@ -1,0 +1,16 @@
+D:\.net\PracticePerHeadAndTail\PracticePerHeadAndTail\bin\Debug\net5.0\PracticePerHeadAndTail.exe
+D:\.net\PracticePerHeadAndTail\PracticePerHeadAndTail\bin\Debug\net5.0\PracticePerHeadAndTail.deps.json
+D:\.net\PracticePerHeadAndTail\PracticePerHeadAndTail\bin\Debug\net5.0\PracticePerHeadAndTail.runtimeconfig.json
+D:\.net\PracticePerHeadAndTail\PracticePerHeadAndTail\bin\Debug\net5.0\PracticePerHeadAndTail.runtimeconfig.dev.json
+D:\.net\PracticePerHeadAndTail\PracticePerHeadAndTail\bin\Debug\net5.0\PracticePerHeadAndTail.dll
+D:\.net\PracticePerHeadAndTail\PracticePerHeadAndTail\bin\Debug\net5.0\PracticePerHeadAndTail.pdb
+D:\.net\PracticePerHeadAndTail\PracticePerHeadAndTail\obj\Debug\net5.0\PracticePerHeadAndTail.csproj.AssemblyReference.cache
+D:\.net\PracticePerHeadAndTail\PracticePerHeadAndTail\obj\Debug\net5.0\PracticePerHeadAndTail.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\PracticePerHeadAndTail\PracticePerHeadAndTail\obj\Debug\net5.0\PracticePerHeadAndTail.AssemblyInfoInputs.cache
+D:\.net\PracticePerHeadAndTail\PracticePerHeadAndTail\obj\Debug\net5.0\PracticePerHeadAndTail.AssemblyInfo.cs
+D:\.net\PracticePerHeadAndTail\PracticePerHeadAndTail\obj\Debug\net5.0\PracticePerHeadAndTail.csproj.CoreCompileInputs.cache
+D:\.net\PracticePerHeadAndTail\PracticePerHeadAndTail\obj\Debug\net5.0\PracticePerHeadAndTail.dll
+D:\.net\PracticePerHeadAndTail\PracticePerHeadAndTail\obj\Debug\net5.0\refint\PracticePerHeadAndTail.dll
+D:\.net\PracticePerHeadAndTail\PracticePerHeadAndTail\obj\Debug\net5.0\PracticePerHeadAndTail.pdb
+D:\.net\PracticePerHeadAndTail\PracticePerHeadAndTail\obj\Debug\net5.0\PracticePerHeadAndTail.genruntimeconfig.cache
+D:\.net\PracticePerHeadAndTail\PracticePerHeadAndTail\obj\Debug\net5.0\ref\PracticePerHeadAndTail.dll
