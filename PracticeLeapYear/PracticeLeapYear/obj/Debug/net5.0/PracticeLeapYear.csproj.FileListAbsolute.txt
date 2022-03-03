@@ -1,0 +1,16 @@
+D:\.net\PracticeLeapYear\PracticeLeapYear\bin\Debug\net5.0\PracticeLeapYear.exe
+D:\.net\PracticeLeapYear\PracticeLeapYear\bin\Debug\net5.0\PracticeLeapYear.deps.json
+D:\.net\PracticeLeapYear\PracticeLeapYear\bin\Debug\net5.0\PracticeLeapYear.runtimeconfig.json
+D:\.net\PracticeLeapYear\PracticeLeapYear\bin\Debug\net5.0\PracticeLeapYear.runtimeconfig.dev.json
+D:\.net\PracticeLeapYear\PracticeLeapYear\bin\Debug\net5.0\PracticeLeapYear.dll
+D:\.net\PracticeLeapYear\PracticeLeapYear\bin\Debug\net5.0\PracticeLeapYear.pdb
+D:\.net\PracticeLeapYear\PracticeLeapYear\obj\Debug\net5.0\PracticeLeapYear.csproj.AssemblyReference.cache
+D:\.net\PracticeLeapYear\PracticeLeapYear\obj\Debug\net5.0\PracticeLeapYear.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\PracticeLeapYear\PracticeLeapYear\obj\Debug\net5.0\PracticeLeapYear.AssemblyInfoInputs.cache
+D:\.net\PracticeLeapYear\PracticeLeapYear\obj\Debug\net5.0\PracticeLeapYear.AssemblyInfo.cs
+D:\.net\PracticeLeapYear\PracticeLeapYear\obj\Debug\net5.0\PracticeLeapYear.csproj.CoreCompileInputs.cache
+D:\.net\PracticeLeapYear\PracticeLeapYear\obj\Debug\net5.0\PracticeLeapYear.dll
+D:\.net\PracticeLeapYear\PracticeLeapYear\obj\Debug\net5.0\refint\PracticeLeapYear.dll
+D:\.net\PracticeLeapYear\PracticeLeapYear\obj\Debug\net5.0\PracticeLeapYear.pdb
+D:\.net\PracticeLeapYear\PracticeLeapYear\obj\Debug\net5.0\PracticeLeapYear.genruntimeconfig.cache
+D:\.net\PracticeLeapYear\PracticeLeapYear\obj\Debug\net5.0\ref\PracticeLeapYear.dll
