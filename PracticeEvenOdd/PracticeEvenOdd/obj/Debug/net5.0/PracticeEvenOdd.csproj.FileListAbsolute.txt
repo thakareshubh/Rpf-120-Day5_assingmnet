@@ -1,0 +1,16 @@
+D:\.net\PracticeEvenOdd\PracticeEvenOdd\bin\Debug\net5.0\PracticeEvenOdd.exe
+D:\.net\PracticeEvenOdd\PracticeEvenOdd\bin\Debug\net5.0\PracticeEvenOdd.deps.json
+D:\.net\PracticeEvenOdd\PracticeEvenOdd\bin\Debug\net5.0\PracticeEvenOdd.runtimeconfig.json
+D:\.net\PracticeEvenOdd\PracticeEvenOdd\bin\Debug\net5.0\PracticeEvenOdd.runtimeconfig.dev.json
+D:\.net\PracticeEvenOdd\PracticeEvenOdd\bin\Debug\net5.0\PracticeEvenOdd.dll
+D:\.net\PracticeEvenOdd\PracticeEvenOdd\bin\Debug\net5.0\PracticeEvenOdd.pdb
+D:\.net\PracticeEvenOdd\PracticeEvenOdd\obj\Debug\net5.0\PracticeEvenOdd.csproj.AssemblyReference.cache
+D:\.net\PracticeEvenOdd\PracticeEvenOdd\obj\Debug\net5.0\PracticeEvenOdd.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\PracticeEvenOdd\PracticeEvenOdd\obj\Debug\net5.0\PracticeEvenOdd.AssemblyInfoInputs.cache
+D:\.net\PracticeEvenOdd\PracticeEvenOdd\obj\Debug\net5.0\PracticeEvenOdd.AssemblyInfo.cs
+D:\.net\PracticeEvenOdd\PracticeEvenOdd\obj\Debug\net5.0\PracticeEvenOdd.csproj.CoreCompileInputs.cache
+D:\.net\PracticeEvenOdd\PracticeEvenOdd\obj\Debug\net5.0\PracticeEvenOdd.dll
+D:\.net\PracticeEvenOdd\PracticeEvenOdd\obj\Debug\net5.0\refint\PracticeEvenOdd.dll
+D:\.net\PracticeEvenOdd\PracticeEvenOdd\obj\Debug\net5.0\PracticeEvenOdd.pdb
+D:\.net\PracticeEvenOdd\PracticeEvenOdd\obj\Debug\net5.0\PracticeEvenOdd.genruntimeconfig.cache
+D:\.net\PracticeEvenOdd\PracticeEvenOdd\obj\Debug\net5.0\ref\PracticeEvenOdd.dll
