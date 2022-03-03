@@ -1,0 +1,16 @@
+D:\.net\PracticeAlphaOvelOrConsonant\PracticeAlphaOvelOrConsonant\bin\Debug\net5.0\PracticeAlphaOvelOrConsonant.exe
+D:\.net\PracticeAlphaOvelOrConsonant\PracticeAlphaOvelOrConsonant\bin\Debug\net5.0\PracticeAlphaOvelOrConsonant.deps.json
+D:\.net\PracticeAlphaOvelOrConsonant\PracticeAlphaOvelOrConsonant\bin\Debug\net5.0\PracticeAlphaOvelOrConsonant.runtimeconfig.json
+D:\.net\PracticeAlphaOvelOrConsonant\PracticeAlphaOvelOrConsonant\bin\Debug\net5.0\PracticeAlphaOvelOrConsonant.runtimeconfig.dev.json
+D:\.net\PracticeAlphaOvelOrConsonant\PracticeAlphaOvelOrConsonant\bin\Debug\net5.0\PracticeAlphaOvelOrConsonant.dll
+D:\.net\PracticeAlphaOvelOrConsonant\PracticeAlphaOvelOrConsonant\bin\Debug\net5.0\PracticeAlphaOvelOrConsonant.pdb
+D:\.net\PracticeAlphaOvelOrConsonant\PracticeAlphaOvelOrConsonant\obj\Debug\net5.0\PracticeAlphaOvelOrConsonant.csproj.AssemblyReference.cache
+D:\.net\PracticeAlphaOvelOrConsonant\PracticeAlphaOvelOrConsonant\obj\Debug\net5.0\PracticeAlphaOvelOrConsonant.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\PracticeAlphaOvelOrConsonant\PracticeAlphaOvelOrConsonant\obj\Debug\net5.0\PracticeAlphaOvelOrConsonant.AssemblyInfoInputs.cache
+D:\.net\PracticeAlphaOvelOrConsonant\PracticeAlphaOvelOrConsonant\obj\Debug\net5.0\PracticeAlphaOvelOrConsonant.AssemblyInfo.cs
+D:\.net\PracticeAlphaOvelOrConsonant\PracticeAlphaOvelOrConsonant\obj\Debug\net5.0\PracticeAlphaOvelOrConsonant.csproj.CoreCompileInputs.cache
+D:\.net\PracticeAlphaOvelOrConsonant\PracticeAlphaOvelOrConsonant\obj\Debug\net5.0\PracticeAlphaOvelOrConsonant.dll
+D:\.net\PracticeAlphaOvelOrConsonant\PracticeAlphaOvelOrConsonant\obj\Debug\net5.0\refint\PracticeAlphaOvelOrConsonant.dll
+D:\.net\PracticeAlphaOvelOrConsonant\PracticeAlphaOvelOrConsonant\obj\Debug\net5.0\PracticeAlphaOvelOrConsonant.pdb
+D:\.net\PracticeAlphaOvelOrConsonant\PracticeAlphaOvelOrConsonant\obj\Debug\net5.0\PracticeAlphaOvelOrConsonant.genruntimeconfig.cache
+D:\.net\PracticeAlphaOvelOrConsonant\PracticeAlphaOvelOrConsonant\obj\Debug\net5.0\ref\PracticeAlphaOvelOrConsonant.dll
