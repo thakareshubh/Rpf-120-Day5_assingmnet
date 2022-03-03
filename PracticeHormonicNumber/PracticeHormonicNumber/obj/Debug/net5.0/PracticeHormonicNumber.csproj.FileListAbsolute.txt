@@ -1,0 +1,16 @@
+D:\.net\PracticeHormonicNumber\PracticeHormonicNumber\bin\Debug\net5.0\PracticeHormonicNumber.exe
+D:\.net\PracticeHormonicNumber\PracticeHormonicNumber\bin\Debug\net5.0\PracticeHormonicNumber.deps.json
+D:\.net\PracticeHormonicNumber\PracticeHormonicNumber\bin\Debug\net5.0\PracticeHormonicNumber.runtimeconfig.json
+D:\.net\PracticeHormonicNumber\PracticeHormonicNumber\bin\Debug\net5.0\PracticeHormonicNumber.runtimeconfig.dev.json
+D:\.net\PracticeHormonicNumber\PracticeHormonicNumber\bin\Debug\net5.0\PracticeHormonicNumber.dll
+D:\.net\PracticeHormonicNumber\PracticeHormonicNumber\bin\Debug\net5.0\PracticeHormonicNumber.pdb
+D:\.net\PracticeHormonicNumber\PracticeHormonicNumber\obj\Debug\net5.0\PracticeHormonicNumber.csproj.AssemblyReference.cache
+D:\.net\PracticeHormonicNumber\PracticeHormonicNumber\obj\Debug\net5.0\PracticeHormonicNumber.GeneratedMSBuildEditorConfig.editorconfig
+D:\.net\PracticeHormonicNumber\PracticeHormonicNumber\obj\Debug\net5.0\PracticeHormonicNumber.AssemblyInfoInputs.cache
+D:\.net\PracticeHormonicNumber\PracticeHormonicNumber\obj\Debug\net5.0\PracticeHormonicNumber.AssemblyInfo.cs
+D:\.net\PracticeHormonicNumber\PracticeHormonicNumber\obj\Debug\net5.0\PracticeHormonicNumber.csproj.CoreCompileInputs.cache
+D:\.net\PracticeHormonicNumber\PracticeHormonicNumber\obj\Debug\net5.0\PracticeHormonicNumber.dll
+D:\.net\PracticeHormonicNumber\PracticeHormonicNumber\obj\Debug\net5.0\refint\PracticeHormonicNumber.dll
+D:\.net\PracticeHormonicNumber\PracticeHormonicNumber\obj\Debug\net5.0\PracticeHormonicNumber.pdb
+D:\.net\PracticeHormonicNumber\PracticeHormonicNumber\obj\Debug\net5.0\PracticeHormonicNumber.genruntimeconfig.cache
+D:\.net\PracticeHormonicNumber\PracticeHormonicNumber\obj\Debug\net5.0\ref\PracticeHormonicNumber.dll
